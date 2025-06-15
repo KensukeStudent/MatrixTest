@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class TestMatrix : MonoBehaviour
 {
     [SerializeField]
     private int xT, yT;
